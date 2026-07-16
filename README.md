@@ -1,6 +1,15 @@
 ### Hi there fellow devoloper 👋
 ### How is it going?
 
+<p align="center">
+  
+  I'm NOT very best at luaU although its mascot is addorable
+  <br>
+  <br>
+  <img src="https://luau.org/_astro/mascot.iwZjauS8_1jdjiU.webp" alt="Hina - Luau Mascot" width="300">
+</p>
+
+
 <!--
 **PBMINE/PBMINE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
